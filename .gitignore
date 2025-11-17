@@ -1,0 +1,22 @@
+# Java / Maven
+target/
+*.jar
+*.war
+*.iml
+
+# IDE files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Sensitive files
+application.properties
+*.env
+
+# Docker
+*.pid
